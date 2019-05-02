@@ -5,7 +5,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Q3Repeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4Median.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4Median.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q4Median.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Q4Median.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="21">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -107,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/Q1TwoSum.java" />
         <option value="$PROJECT_DIR$/src/Q2Add.java" />
         <option value="$PROJECT_DIR$/src/Q3Repeating.java" />
+        <option value="$PROJECT_DIR$/src/Q4Median.java" />
       </list>
     </option>
   </component>
@@ -326,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q4Median.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="21">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
